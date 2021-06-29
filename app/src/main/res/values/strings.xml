@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Forca game</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enviar">Enviar</string>
+    <string name="letrasErradas">Letras Erradas</string>
+    <string name="tente_uma_letra">Tente uma letra</string>
+    <string name="voc_ainda_tem">Você ainda tem</string>
+    <string name="Jogardor1">Jogador1</string>
+    <string name="comecar">Começar</string>
+    <string name="Selecione_seu_avatar">avatar</string>
+    <string name="voltar">voltar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="obs_adicionar_arma_medieval">Obs:Adicionar arma medieval</string>
+    <string name="inserir_palavra">Inserir palavra:</string>
+    <string name="digite_aqui">digite aqui</string>
+    <string name="sair">Sair</string>
+    <string name="reiniciar">reiniciar</string>
+    <string name="Adicionar_Palavra">Inserir Palavra</string>
+    <string name="selecione_seu_avatar">Selecione seu avatar:</string>
+    <string name="jogo_da_forca">Jogo da forca</string>
+    <string name="orcs_vs_humanos">Orcs vs Humanos</string>
+</resources>
